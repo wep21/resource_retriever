@@ -2,8 +2,8 @@
 Changelog for package resource_retriever
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.4.1 (2024-04-16)
+------------------
 * Update resource retreiver to use rule of five (`#95 <https://github.com/ros/resource_retriever/issues/95>`_)
 * Use default ament_lint_auto (`#92 <https://github.com/ros/resource_retriever/issues/92>`_)
 * Contributors: Chris Lalancette, Michael Carroll
